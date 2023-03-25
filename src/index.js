@@ -1,6 +1,6 @@
 import './style.css';
-import displayItems from './modules/displayItems';
+import displayItems from './modules/displayItems.js';
 
 window.onload = () => {
   displayItems();
-}
+};

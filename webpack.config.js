@@ -9,12 +9,12 @@ module.exports = {
   },
   plugins: [
     new HtmlWebpackPlugin({
-        template: './src/index.html',
+      template: './src/index.html',
     }),
   ],
-//   optimization: {
-//     runtimeChunk: 'single',
-//   },
+  //   optimization: {
+  //     runtimeChunk: 'single',
+  //   },
   output: {
     filename: 'main.js',
     path: path.resolve(__dirname, 'dist'),
