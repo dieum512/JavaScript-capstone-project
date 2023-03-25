@@ -12,6 +12,7 @@
   - [🛠 Built With](#built-with)
   - [Key Features](#key-features)
   <!-- - [🚀 Live Demo](#live-demo) -->
+  - [🚀 Live Video](#live-video)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -66,12 +67,20 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
-<!--
-## 🚀 Live Demo <a name="live-demo"></a>
+
+<!-- ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live Demo Link](https://dieum512.github.io/Leaderboard/dist/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-video"></a>
+
+- [Live Video Link](https://www.loom.com/share/b2f8283a4cdf4d75b11204035323c26c)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
